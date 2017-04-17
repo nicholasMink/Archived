@@ -1,0 +1,11 @@
+Time to sort 100 items 5000 times is 0.234190 seconds
+Time to sort 200 items 5000 times is 0.976267 seconds
+Time to sort 300 items 5000 times is 2.168603 seconds
+Time to sort 400 items 5000 times is 3.770717 seconds
+Time to sort 500 items 5000 times is 6.057403 seconds
+Time to sort 600 items 5000 times is 8.609939 seconds
+Time to sort 700 items 5000 times is 11.992831 seconds
+Time to sort 800 items 5000 times is 15.394337 seconds
+Time to sort 900 items 5000 times is 20.223907 seconds
+Time to sort 1000 items 5000 times is 24.142645 seconds
+Sort checked OK

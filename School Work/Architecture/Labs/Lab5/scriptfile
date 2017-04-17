@@ -1,0 +1,33 @@
+# gdb script for notHello.asm
+set disassembly-flavor intel
+# defining the breakpoints
+b fn2
+b fn3
+# running the program
+run
+#show steps
+display/i $pc
+#skipping steps
+ni
+ni
+#checking rax
+info reg rax
+#skip to printf
+ni
+ni
+#check rax
+info reg rax
+#skip steps
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+ni
+#quit gdb
+q
+
