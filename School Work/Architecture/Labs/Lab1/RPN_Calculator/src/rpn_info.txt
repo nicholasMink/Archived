@@ -1,0 +1,14 @@
+7
+3
+4
+MUL
+4
+2
+DIV
+ADD
+DIV
+1
+ADD
+PRT
+STOP
+
